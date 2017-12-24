@@ -21,6 +21,7 @@ remote branch
 version 1.4
 track remote branch
 
-
+vesion 1.5
+git pull and git fetch
 
 
