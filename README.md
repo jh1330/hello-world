@@ -12,4 +12,5 @@ learn branch
 version 1.1
 local to remote
 
-
+version 1.2
+remote to local
